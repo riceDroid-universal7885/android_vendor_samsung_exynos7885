@@ -24,7 +24,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/universal7885-common/proprietary/vendor/etc/init/init.vendor.rilchip.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/init.vendor.rilchip.rc \
     vendor/samsung/universal7885-common/proprietary/vendor/etc/init/init.vendor.rilcommon.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/init.vendor.rilcommon.rc \
     vendor/samsung/universal7885-common/proprietary/vendor/etc/init/teegris_v3.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/teegris_v3.rc \
-    vendor/samsung/universal7885-common/proprietary/vendor/etc/init/multiclientd.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/multiclientd.rc \
+    vendor/samsung/universal7885-common/proprietary/system/etc/init/multiclientd.rc:$(TARGET_COPY_OUT_SYSTEM)/etc/init/multiclientd.rc \
     vendor/samsung/universal7885-common/proprietary/vendor/etc/init/vendor.samsung.hardware.gnss@2.0-service.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/vendor.samsung.hardware.gnss@2.0-service.rc \
     vendor/samsung/universal7885-common/proprietary/vendor/etc/init/wifi_slsi.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/wifi_slsi.rc \
     vendor/samsung/universal7885-common/proprietary/vendor/etc/media_codecs.xml:$(TARGET_COPY_OUT_VENDOR)/etc/media_codecs.xml \
